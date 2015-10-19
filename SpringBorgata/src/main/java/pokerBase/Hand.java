@@ -134,7 +134,7 @@ public class Hand {
 			}
 		}
 		
-		if ()
+		if () //????
 		
 	}
 	
@@ -150,14 +150,14 @@ public class Hand {
 	private static Hand EvalHand(Hand h){
 		ArrayList<Hand> EvalHands = explodeHand(h);
 		
-		return
+		return //????
 	}
 
 
 	public void EvalHands() {
 		
 		ArrayList<Hand> evalhand = explodeHand(this);
-		for ()
+		for () //???
 		
 		
 		ArrayList<Card> remainingCards = new ArrayList<Card>();
